@@ -4,7 +4,7 @@ I’m a Software Engineering student at Ontario Tech University (OTU) and an act
 
 🚧 What I’m Currently Working On
 
-Member of the OTU Robotics team, ARC Competition section, where I contribute to design and engineering efforts for competitive robotics.
+Member of the OTU Robotics ARC Competition team, where I contribute to design and engineering efforts for competitive robotics.
 
 This GitHub serves as a place to document my projects, coursework, and ongoing learning.
 
