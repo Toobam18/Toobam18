@@ -6,7 +6,7 @@ I’m a Software Engineering student at Ontario Tech University (OTU) and a Web 
 
 🌐 Web Developer — OTU Ridgebots Robotics (ARC)
 
-Part of the Web Development subteam supporting the RoboMaster ARC competition
+Part of the Web Development subteam supporting the ARC competition
 
 Contribute to the design, development, and maintenance of the Ridgebots website
 
