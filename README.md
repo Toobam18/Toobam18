@@ -1,6 +1,6 @@
 Hi, I’m Tooba 🦋
 
-I’m a Software Engineering student at Ontario Tech University (OTU) and a Web Developer on the OTU Ridgebots Robotics Team (ARC Competition). I’m interested in building reliable, user-focused web applications and contributing to engineering teams through clean, well-structured code.
+I’m a Software Engineering student at Ontario Tech University (OTU) and a Web Developer on the OTU Robotics Team (ARC Competition). I’m interested in building reliable, user-focused web applications and contributing to engineering teams through clean, well-structured code.
 
 💼 Experience & Projects:
 
