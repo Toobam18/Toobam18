@@ -4,7 +4,7 @@ I’m a Software Engineering student at Ontario Tech University (OTU) and a Web 
 
 💼 Experience & Projects:
 
-🌐 Web Developer — OTU Ridgebots Robotics (ARC)
+🌐 Web Developer — OTU Robotics (ARC)
 
 Part of the Web Development subteam supporting the ARC competition
 
