@@ -10,7 +10,7 @@ I’m a Software Engineering student at Ontario Tech University (OTU) and a Web 
 - Work collaboratively using GitHub, structured workflows, and documentation
 - Tech stack includes modern web tools and CI/CD-based deployment
 
-Project: TASKLY — To-Do List & Task Tracker
+Project: TASKLY, To-Do List & Task Tracker
 - Co-developed a web-based task management application with two teammates
 - Focused on task organization, usability, and clean UI design
 - Gained experience in team-based software development and version control
