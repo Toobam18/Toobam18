@@ -53,4 +53,4 @@ LinkedIn: https://www.linkedin.com/in/tooba-malik-46369825a/
 
 Email: tooba.malik@ontariotechu.net
 
-Thanks for visiting — feel free to explore my projects and repositories.
+Thanks for visiting, feel free to explore my projects and repositories!
