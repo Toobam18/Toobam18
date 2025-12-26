@@ -25,7 +25,7 @@ Project: Personal Finance Tracker
 
 🎓 Education:
 
-BSc in Software Engineering — Ontario Tech University
+BSc in Software Engineering @ Ontario Tech University
 Completed (Year 2, Semester 1):
 
 Relevant coursework includes,
